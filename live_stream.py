@@ -8,21 +8,8 @@ import moviepy.editor
 # But du programme : rechercher une video aléatoirement dans un dossier spécifique
 
 # Dossier dans lesquels effectuer la recherche
-mains_folders = ["\zdoc12American Dad\zdoc12American Dad S13",
-                 "\zdoc12American Dad\zdoc12American Dad S15",
-                 "\zdoc12South Park\zdoc12South Park S16",
-                 "\zdoc12South Park\zdoc12South Park S18",
-                 "\zdoc12Paradise Police",
-                 "\zdoc12Pirates des Caraibes",
-                 "\zdoc12Seuls face a l Alaska",
-                 "\zdoc12Les Simpson\zdoc12Les Simpson S28",
-                 "\zdoc12Les Simpson\zdoc12Les Simpson S04",
-                 "\zdoc12Les Simpson\zdoc12Les Simpson S16",
-
-                 "\zdoc12Expendable 1.2.3",
-                 "\zdoc12Malcolm\zdoc12S2",
-                 "\zdoc12Malcolm\zdoc12S3",
-                 "\zdoc12Malcolm\zdoc12S4"
+mains_folders = [ # DOSSIER A SCANNER
+                   "my doc"
                  ]
 
 # Liste des episodes trouver
