@@ -9,7 +9,7 @@ import moviepy.editor
 
 # Dossier dans lesquels effectuer la recherche
 mains_folders = [ # DOSSIER A SCANNER
-                   "my doc"
+                   "my video folders"
                  ]
 
 # Liste des episodes trouver
